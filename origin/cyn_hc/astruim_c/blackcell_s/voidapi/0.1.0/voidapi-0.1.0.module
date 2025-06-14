@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "origin.cyn_hc.astruim_c.blackcell_s",
+    "module": "voidapi",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "voidapi-0.1.0.jar",
+          "url": "voidapi-0.1.0.jar",
+          "size": 4080,
+          "sha512": "f9f788be02be7c6bd7bafffc7b54519fd4c079e28fee5d3f8bba2ca244e2e6f6a3ff8735bbd342ff89769f88b33302467622729064ef1cf26143a532ce81f466",
+          "sha256": "4b87ec8ff5984a0875013280d74ff101549b41254026572fc7cacb121180a1dc",
+          "sha1": "d474fcef8ad357333538bc84b4ee35813f7f62f0",
+          "md5": "8e4af33549e268db357f35cfedb9f890"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "voidapi-0.1.0.jar",
+          "url": "voidapi-0.1.0.jar",
+          "size": 4080,
+          "sha512": "f9f788be02be7c6bd7bafffc7b54519fd4c079e28fee5d3f8bba2ca244e2e6f6a3ff8735bbd342ff89769f88b33302467622729064ef1cf26143a532ce81f466",
+          "sha256": "4b87ec8ff5984a0875013280d74ff101549b41254026572fc7cacb121180a1dc",
+          "sha1": "d474fcef8ad357333538bc84b4ee35813f7f62f0",
+          "md5": "8e4af33549e268db357f35cfedb9f890"
+        }
+      ]
+    }
+  ]
+}
