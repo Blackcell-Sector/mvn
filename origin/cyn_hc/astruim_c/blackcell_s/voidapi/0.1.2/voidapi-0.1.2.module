@@ -27,11 +27,11 @@
         {
           "name": "voidapi-0.1.2.jar",
           "url": "voidapi-0.1.2.jar",
-          "size": 6135,
-          "sha512": "03e7d7c043cd20209b244bffca84254f6bbd562fc173354d5f87847efa95eeac1775bcf90801bcbb801d706b897fe9e1782451d6c7be0e95670b300237328499",
-          "sha256": "1070e760fb6f8f899057b70cf25ad12f0d67d914e5a3c097a25c5c1fe4e47214",
-          "sha1": "7ee8cf5894d93959944f161d5040a9a22b1bd10e",
-          "md5": "381915d8faa981feaa413981f917e041"
+          "size": 11000,
+          "sha512": "decb231477185c7a52e778ba608275431f93050ee91dcaebda28dbac71a10b8905224128be07d8f7adecaf151c1f437d7d6c24d066793b24fbbdcd46dd590b7b",
+          "sha256": "d432257737dfff2c4d395f128faa42b138edde923641accf4ddcd660b527dd9f",
+          "sha1": "6e515ba5316f3b96c8dbf0ef228cfc3cea9c6d5d",
+          "md5": "a91a05ce303009b197922e7f289ae21c"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "voidapi-0.1.2.jar",
           "url": "voidapi-0.1.2.jar",
-          "size": 6135,
-          "sha512": "03e7d7c043cd20209b244bffca84254f6bbd562fc173354d5f87847efa95eeac1775bcf90801bcbb801d706b897fe9e1782451d6c7be0e95670b300237328499",
-          "sha256": "1070e760fb6f8f899057b70cf25ad12f0d67d914e5a3c097a25c5c1fe4e47214",
-          "sha1": "7ee8cf5894d93959944f161d5040a9a22b1bd10e",
-          "md5": "381915d8faa981feaa413981f917e041"
+          "size": 11000,
+          "sha512": "decb231477185c7a52e778ba608275431f93050ee91dcaebda28dbac71a10b8905224128be07d8f7adecaf151c1f437d7d6c24d066793b24fbbdcd46dd590b7b",
+          "sha256": "d432257737dfff2c4d395f128faa42b138edde923641accf4ddcd660b527dd9f",
+          "sha1": "6e515ba5316f3b96c8dbf0ef228cfc3cea9c6d5d",
+          "md5": "a91a05ce303009b197922e7f289ae21c"
         }
       ]
     }
