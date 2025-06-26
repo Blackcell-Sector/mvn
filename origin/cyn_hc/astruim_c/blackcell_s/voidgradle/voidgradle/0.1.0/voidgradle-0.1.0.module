@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "origin.cyn_hc.astruim_c.blackcell_s",
+    "group": "origin.cyn_hc.astruim_c.blackcell_s.voidgradle",
     "module": "voidgradle",
     "version": "0.1.0",
     "attributes": {
