@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>voidgradle</groupId>
-  <artifactId>voidgradle.gradle.plugin</artifactId>
+  <groupId>origin.cyn_hc.astruim_c.blackcell_s.voidgradle</groupId>
+  <artifactId>origin.cyn_hc.astruim_c.blackcell_s.voidgradle.gradle.plugin</artifactId>
   <version>0.1.0</version>
   <packaging>pom</packaging>
+  <name>VoidGradle</name>
+  <description>Gradle plugin for Blackcell projects</description>
   <dependencies>
     <dependency>
       <groupId>origin.cyn_hc.astruim_c.blackcell_s</groupId>
