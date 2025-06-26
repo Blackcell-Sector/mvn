@@ -27,11 +27,11 @@
         {
           "name": "voidgradle-0.1.0.jar",
           "url": "voidgradle-0.1.0.jar",
-          "size": 4979,
-          "sha512": "a3e09138f0b2a2e68d0d8c294fa874bf3208941d49ed8b8baee71b6eb97104792efad20569204eb80c8c863f7109ead748fb8384d6fd8440eccb5599b892707e",
-          "sha256": "0c091493205e6cdf1507a802f03f41afe45c376bcf8825e2549ffbc8fc1609b8",
-          "sha1": "f84a22ddd53e98982437edb67f81087cccb94583",
-          "md5": "41aa5dd805d904af24f5061b7781a6f8"
+          "size": 4985,
+          "sha512": "71e1830705adf3457545e0b9fd2be16864c960b3d5cc169577515a6431354cd1dfb5d4616dc100ef5cd75685bf1ea79a26869a6c75642f1ae19faadcc21022fb",
+          "sha256": "c15bcba30425f6423917a5f14dd144e772be2c59c4576b23ae4d94694d9bc54d",
+          "sha1": "5fb41ee491f6f6869a5ec6d58bf21c7545fbcf95",
+          "md5": "e150a7744d16eed79e58bf49ea883862"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "voidgradle-0.1.0.jar",
           "url": "voidgradle-0.1.0.jar",
-          "size": 4979,
-          "sha512": "a3e09138f0b2a2e68d0d8c294fa874bf3208941d49ed8b8baee71b6eb97104792efad20569204eb80c8c863f7109ead748fb8384d6fd8440eccb5599b892707e",
-          "sha256": "0c091493205e6cdf1507a802f03f41afe45c376bcf8825e2549ffbc8fc1609b8",
-          "sha1": "f84a22ddd53e98982437edb67f81087cccb94583",
-          "md5": "41aa5dd805d904af24f5061b7781a6f8"
+          "size": 4985,
+          "sha512": "71e1830705adf3457545e0b9fd2be16864c960b3d5cc169577515a6431354cd1dfb5d4616dc100ef5cd75685bf1ea79a26869a6c75642f1ae19faadcc21022fb",
+          "sha256": "c15bcba30425f6423917a5f14dd144e772be2c59c4576b23ae4d94694d9bc54d",
+          "sha1": "5fb41ee491f6f6869a5ec6d58bf21c7545fbcf95",
+          "md5": "e150a7744d16eed79e58bf49ea883862"
         }
       ]
     }
