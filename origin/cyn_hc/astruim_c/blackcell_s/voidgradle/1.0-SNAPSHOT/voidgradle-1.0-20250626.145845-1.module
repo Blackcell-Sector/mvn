@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "origin.cyn_hc.astruim_c.blackcell_s",
+    "module": "voidgradle",
+    "version": "1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "voidgradle-1.0-SNAPSHOT.jar",
+          "url": "voidgradle-1.0-SNAPSHOT.jar",
+          "size": 5029,
+          "sha512": "f695056a90a62cbfc7deb56f8e1fd2b549d9402f6419745d28474a38b90002758fa8d6dd3fde2971fb441fb88e6b67ac6f2e29157f10351235a851422e71318f",
+          "sha256": "e1ef43260fb0bed1d78cd56d27d737e78977636eadd12ace211691b88aa0cc97",
+          "sha1": "bf5567fcd2680acaa83ae2098276f2ffa74602f6",
+          "md5": "cf1b28d580af1df54daa8c46960e44ff"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "voidgradle-1.0-SNAPSHOT.jar",
+          "url": "voidgradle-1.0-SNAPSHOT.jar",
+          "size": 5029,
+          "sha512": "f695056a90a62cbfc7deb56f8e1fd2b549d9402f6419745d28474a38b90002758fa8d6dd3fde2971fb441fb88e6b67ac6f2e29157f10351235a851422e71318f",
+          "sha256": "e1ef43260fb0bed1d78cd56d27d737e78977636eadd12ace211691b88aa0cc97",
+          "sha1": "bf5567fcd2680acaa83ae2098276f2ffa74602f6",
+          "md5": "cf1b28d580af1df54daa8c46960e44ff"
+        }
+      ]
+    }
+  ]
+}
